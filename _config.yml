@@ -363,7 +363,7 @@ plugins:
 #   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/acceptor-gyu
+     - https://github.com/acceptor-gyu
 
 
 # Plugin Configs
