@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                   https://acceptor-gyu.github.io
+url: https://acceptor-gyu.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -17,19 +17,20 @@ url:                   https://acceptor-gyu.github.io
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  ko
+lang: ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 ACCEPTOR
+title: 𝒶𝒸𝒸𝑒𝓅𝓉𝑜𝓇-𝑔𝓎𝓊
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  2022-12-26 ~
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline: 𝒢𝓇𝒾𝓃𝒹 𝒽𝒶𝓇𝒹, 𝒮𝒽𝒾𝓃𝑒 𝒽𝒶𝓇𝒹
+
+timezone: Asia/Seoul
 
 # A list of keywords for your blog
 keywords:              []
